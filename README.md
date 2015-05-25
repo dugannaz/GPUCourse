@@ -1,4 +1,4 @@
-CUDA GPU Programming Course Examples and Exercises
+## CUDA GPU Programming Course Examples and Exercises
 
 - CUDA Basics
 
